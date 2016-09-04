@@ -6,6 +6,8 @@ use Interop\Container\ContainerInterface;
 use Zend\Expressive\Router\RouterInterface;
 use Zend\Expressive\Template\TemplateRendererInterface;
 
+/** second change **/
+
 class HomePageFactory
 {
     public function __invoke(ContainerInterface $container)
